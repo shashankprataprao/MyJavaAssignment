@@ -73,9 +73,16 @@ public class Parent {
 		System.out.println("the number is ->"+num);
 	}*/
 	
-	protected void printNum() {
+	/*protected void printNum() {
+		System.out.println("the number is ->"+num);
+	}*/
+	
+	/* void printNum() {
 		System.out.println("the number is ->"+num);
 	}
-	
+	*/
+	public void printNum() {
+		System.out.println("the number is ->"+num);
+	}
 
 }

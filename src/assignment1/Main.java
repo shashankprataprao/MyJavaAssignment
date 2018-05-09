@@ -91,7 +91,17 @@ public class Main {
 		/** ---->>
 		 * this code will work if the data member is public and member fun() is protected
 		 */
-		num.printNum();
+		/*num.printNum();*/
+		
+		/** ---->>
+		 * this code will work if the data member is public and member fun() is default
+		 */
+		/*num.printNum();*/
+		/** ---->>
+		 * this code will work if the data member is public and member fun() is public
+		 */
+		/*num.printNum();*/
+		
 	}
 
 }
