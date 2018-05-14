@@ -1,0 +1,36 @@
+Private :
+			With in the same class it is Accessible.
+			
+			it can't be inherited in derived class.
+			
+			It can't be accessible in any other class .
+			
+			It can't be accessible in any other package .
+			
+			
+
+			
+Protected :
+
+			It can be accessible in other class in another package if it is inherited from parent class
+			
+			when it got inherited once in sub class it become private if another sun sub class inherit the sub
+			class then the base class elements will not be present their.
+			
+			it can be accessible in same package .
+			
+			it can,t be accessible in another package.
+			
+			
+default :
+
+			it is of package level 
+			
+			with in the same package it acts as a public.
+			
+			in to another package it can't be accessible .
+			
+			
+Public : 
+           it is accessible every where .
+			

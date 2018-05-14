@@ -3,7 +3,7 @@ package assignment1;
 public class Main {
 
 	public static void main(String[] args) {
-		Parent num = new Parent();
+		//Parent num = new Parent();
 		
 		//private data member
 		/**
